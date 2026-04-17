@@ -22,7 +22,7 @@ To create a frictionless digital environment where intelligent systems handle op
 
 ## 🔗 Connect with Us
 
-* **Website**: [https://GradientSphere.com/](https://GradientSphere.com/)
+* **Website**: [https://GradientSphere.com](https://GradientSphere.com)
 * **X (Twitter)**: [@GradientSphere](https://x.com/GradientSphere)
 * **YouTube**: [@GradientSphere](https://youtube.com/@GradientSphere)
 * **Email**: [contact@gradientsphere.com](mailto:contact@gradientsphere.com)
